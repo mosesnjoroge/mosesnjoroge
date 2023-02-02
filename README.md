@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Ruby on Rails, CSS, stimulusjs**
 
-- 📫 How to reach me **mosesbnjoroge@outlook.com**
-
 - ⚡ Fun fact **I love to stay active, if I am not online I can be found at the local gym.**
 
 <h3 align="left">Connect with me:</h3>
