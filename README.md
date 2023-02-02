@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moses Njoroge</h1>
 <h3 align="center">A passionate full-stack developer from Toronto, Canada</h3>
 
-- 🔭 I’m currently working on [WHOOF](https://github.com/mosesnjoroge/WHOOF-) and [react-flats] (https://github.com/mosesnjoroge/react-flats)
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Ruby on Rails, CSS, stimulusjs**
