@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moses Njoroge</h1>
 <h3 align="center">A passionate full-stack developer from Toronto, Canada</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Ruby on Rails, CSS, stimulusjs**
-
 - ⚡ Fun fact **I love to stay active, if I am not online I can be found at the local gym.**
 
 <h3 align="left">Connect with me:</h3>
